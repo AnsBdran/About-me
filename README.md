@@ -14,7 +14,7 @@ I love learning new things, and I love what I do even more, constantly improving
   
 - JavaScript
   
-  ### skills I have, and tools I use:
+### skills I have, and tools I use:
   
   - Figma
     
@@ -31,7 +31,7 @@ I love learning new things, and I love what I do even more, constantly improving
   - Command Line
     
   
-  ### What I'm currently learning:
+### What I'm currently learning:
   
 - ReactJS
   
