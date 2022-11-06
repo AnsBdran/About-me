@@ -8,10 +8,10 @@
 
 ### Main Skills:
 
-- `HTML`
-- `CSS`
-- `SASS` || `SCSS`
-- `JavaScript`
+- #### `HTML`
+- #### `CSS`
+- #### `SASS` || `SCSS`
+- #### `JavaScript`
 
 ### skills I have, and tools I use:
 
