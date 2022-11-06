@@ -4,14 +4,11 @@
 
 ### I love learning new things, and I love what I do even more, constantly improving my skills and my knowledge
 
-![Image](./imgs/code.png)
+<img src="./imgs/code.png" title="" alt="Image" width="811">
 
 ### Main Skills:
 
-- `HTML`
-- `CSS`
-- `SASS` || `SCSS`
-- `JavaScript`
+<img src="./imgs/html.png" title="" alt="HTML" width="111"><img src="./imgs/css.png" title="" alt="CSS" width="109"><img src="./imgs/sass.png" title="" alt="SASS" width="109"><img src="./imgs/Js.png" title="" alt="JavaScript" width="109">
 
 ### skills I have, and tools I use:
 
