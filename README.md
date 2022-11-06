@@ -6,14 +6,14 @@
 
 ![Image](./imgs/code.png)
 
-### Main Skills:
+> ## Main Skills:
 
 - #### `HTML`
 - #### `CSS`
 - #### `SASS` || `SCSS`
 - #### `JavaScript`
 
-### skills I have, and tools I use:
+> ## skills I have, and tools I use:
 
 - Figma
 - Regular expressions
@@ -23,12 +23,12 @@
 - Git & GitHub
 - Command Line
 
-### What I'm currently learning:
+> ## What I'm currently learning:
 
 - `ReactJS`
 - `NodeJS`
 
-### other skills I have:
+> ## other skills I have:
 
 - Video Editing.
 - Captions & Subtitles
