@@ -8,7 +8,7 @@
 
 > ## Main Skills:
 
-<img src="./imgs/html.png" title="" alt="HTML" width="111"><img src="./imgs/css.png" title="" alt="CSS" width="109"><img src="./imgs/sass.png" title="" alt="SASS" width="109"><img src="./imgs/Js.png" title="" alt="JavaScript" width="109">
+<img src="./imgs/html.png" title="" alt="HTML" width="111"><img src="./imgs/css.png" title="" alt="CSS" width="109"><img src="./imgs/sass.png" title="" alt="SASS" width="109"><img src="./imgs/JS.png" title="" alt="JavaScript" width="109">
 
 > ## skills I have, and tools I use:
 
