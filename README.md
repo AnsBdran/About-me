@@ -8,17 +8,11 @@
 
 > ## Main Skills:
 
-<img  src="./imgs/html.png" title="HTML" alt="HTML" width="111"><img src="./imgs/css.png" title="CSS" alt="CSS" width="109"><img src="./imgs/sass.png" title="SASS || SCSS" alt="SASS" width="109"><img src="./imgs/JS.png" title="JavaScript" alt="JavaScript" width="109">
+<img  src="./imgs/main/html.png" title="HTML" alt="HTML" width="111"><img src="./imgs/main/css.png" title="CSS" alt="CSS" width="109"><img src="./imgs/main/sass.png" title="SASS || SCSS" alt="SASS" width="109"><img src="./imgs/main/JS.png" title="JavaScript" alt="JavaScript" width="109">
 
 > ## skills I have, and tools I use:
-
-- Figma
-- Regular expressions
-- OOP
-- Adobe Photoshop
-- Adobe Illustrator
-- Git & GitHub
-- Command Line
+> 
+> <img title="HTML" src="./imgs/sub/figma.png" alt="Figma" width="73">
 
 > ## What I'm currently learning:
 
