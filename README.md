@@ -16,8 +16,7 @@
 
 > ## What I'm currently learning:
 
-- `ReactJS`
-- `NodeJS`
+<img title="React" src="./imgs/current/react.png" alt="React" width="73"><img title="NodeJS" src="./imgs/current/node.png" alt="NOdeJS" width="73">
 
 > ## other skills I have:
 
