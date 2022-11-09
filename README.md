@@ -2,7 +2,7 @@
 
 <h2 align="center"><u>Self-taught</u> Front-end Developer</h2>
 
-<h5 align="center"> I love learning new things, and I love what I do even more, constantly improving my skills and my knowledge</h5>
+<h3 align="center"> I love learning new things, and I love what I do even more, constantly improving my skills and my knowledge</h3>
 
 <p align="center">
 <img title="" src="./imgs/code.png" alt="Image" width="543">
