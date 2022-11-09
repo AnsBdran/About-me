@@ -1,10 +1,10 @@
-# Anas Badran
+<h1 align="center">Hi, I'm Anas Badran 👋</h1>
 
-## <u>Self-taught</u> Front-end Developer
+<h2 align="center"><u>Self-taught</u> Front-end Developer</h2>
 
-### I love learning new things, and I love what I do even more, constantly improving my skills and my knowledge
+ I love learning new things, and I love what I do even more, constantly improving my skills and my knowledge
 
-<img src="./imgs/code.png" title="" alt="Image" width="811">
+<img title="" src="./imgs/code.png" alt="Image" width="543" data-align="center">
 
 > ## Main Skills:
 
@@ -16,7 +16,7 @@
 
 > ## What I'm currently learning:
 
-<img title="React" src="./imgs/current/react.png" alt="React" width="73"><img title="NodeJS" src="./imgs/current/node.png" alt="NOdeJS" width="73">
+<img title="React" src="./imgs/current/react.png" alt="React" width="73">    <img title="NodeJS" src="./imgs/current/node.png" alt="NOdeJS" width="73">    <img title="TypeScript" src="./imgs/current/typescript.png" alt="TypeScript" width="73">
 
 > ## other skills I have:
 
