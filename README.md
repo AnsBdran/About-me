@@ -4,7 +4,9 @@
 
  I love learning new things, and I love what I do even more, constantly improving my skills and my knowledge
 
-<img title="" src="./imgs/code.png" alt="Image" width="543" data-align="center">
+<p align="center">
+<img title="" src="./imgs/code.png" alt="Image" width="543">
+</p>
 
 > ## Main Skills:
 
