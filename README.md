@@ -6,7 +6,7 @@
 
 <!--<h3 align="center"> I love learning new things, and I love what I do even more, constantly improving my skills and my knowledge</h3>-->
 <p align="center">
-<img title="" src="./imgs/code.png" alt="Image" width="543">
+<img title="Code Describing ME" src="./imgs/code2.jpg" alt="Image" width="543" style="border-radius: 12px">
 </p>
 
 > ## Main Skills:
