@@ -2,7 +2,7 @@
 
 <!--<h2 align="center"><u>Self-taught</u> Front-end Developer</h2>-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=2000&color=8992F7&center=truemultiline=true&width=578&height=100&lines=Self-taught+Front-end+Web+Developer;Passionate+about+learning%2C+and+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=2000&color=8992F7&center=true&multiline=true&width=578&height=100&lines=Self-taught+Front-end+Web+Developer,;Passionate+about+learning%2C+and+learning.)](https://git.io/typing-svg)
 
 <!--<h3 align="center"> I love learning new things, and I love what I do even more, constantly improving my skills and my knowledge</h3>-->
 
