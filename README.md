@@ -8,11 +8,9 @@
 <!--<img title="Code Describing ME" src="./imgs/code2.jpg" alt="Image" width="543" style="border-radius: 12px">-->
 <!--</p>-->
 
-<font size="20" >
  ```javascript
 const anas = (() => "creativity")()
 ```
-</font>
 
 > ## Main Skills:
 
