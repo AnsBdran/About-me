@@ -9,10 +9,10 @@
 <!--<img title="Code Describing ME" src="./imgs/code2.jpg" alt="Image" width="543" style="border-radius: 12px">-->
 
 <!--</p>-->
-
-```javascript
-            const anas = (() => "creativity")()
-```
+<!-- 
+ ```javascript
+const anas = (() => "creativity")()
+``` -->
 
 > ## Main Skills:
 
