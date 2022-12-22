@@ -23,7 +23,7 @@ const anas = (() => "creativity")()
 
 > ## What I'm currently learning:
 
-  <img title="NodeJS" src="./imgs/current/node.png" alt="NOdeJS" width="73">    <img title="TypeScript" src="./imgs/current/typescript.png" alt="TypeScript" width="73">  <img title="TypeScript" src="./imgs/current/nuxt.png" alt="TypeScript" width="73">  <img title="TypeScript" src="./imgs/current/next.png" alt="TypeScript" width="73">
+  <img title="NodeJS" src="./imgs/current/node.png" alt="NOdeJS" width="73">    <img title="TypeScript" src="./imgs/current/typescript.png" alt="TypeScript" width="73">  <img title="Nuxt.Js" src="./imgs/current/nuxt.png" alt="Nuxt.JS" width="73">  <img title="Next.JS" src="./imgs/current/next.png" alt="Next.JS" width="73">
 
 > ## other skills I have:
 
